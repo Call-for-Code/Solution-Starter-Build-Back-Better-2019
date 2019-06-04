@@ -9,3 +9,40 @@ Enhance resiliency and integrate disaster risk reduction during the recovery, re
 ## Why is this needed?
 
 Research shows when countries rebuild stronger, faster, and more inclusively after a natural disaster, the impact on individuals' livelihood and well-being can be reduced by more than 30 percent, cutting losses from $555B to $382B per year.  As climate change increases, countries will benefit from placing an even greater priority on more resilient, swift, and inclusive recovery and reconstruction processes. Building back better, stronger, and faster after a natural disaster is one of the best ways to reduce impact and end the cycle of poverty.
+
+## Solution description
+
+Lorem ipsum
+
+## Mapping the end users
+
+Lorem ipsum
+
+Lorem ipsum 
+
+Lorem ipsum
+
+## Solution architecture
+
+1. Lorem ipsum
+1. Lorem ipsum
+1. Lorem ipsum
+1. Lorem ipsum
+
+## Technology suggestions
+
+1. Lorem ipsum
+1. Lorem ipsum
+1. Lorem ipsum
+
+## Assumptions
+
+1. Lorem ipsum
+1. Lorem ipsum
+1. Lorem ipsum
+
+## Open questions
+
+1. Lorem ipsum
+1. Lorem ipsum
+1. Lorem ipsum
