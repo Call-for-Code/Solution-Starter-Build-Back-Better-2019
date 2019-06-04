@@ -46,3 +46,7 @@ Lorem ipsum
 1. Lorem ipsum
 1. Lorem ipsum
 1. Lorem ipsum
+
+## License
+
+This solution starter is made available under the [Apache 2 License](LICENSE).
