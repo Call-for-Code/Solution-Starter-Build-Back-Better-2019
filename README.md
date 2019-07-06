@@ -50,26 +50,26 @@ This solution starter idea combines machine learning models with real-time infor
 
 ## Documents
 
-- https://www.unisdr.org/we/inform/terminology
-- https://www.unisdr.org/files/54970_techguidancefdigitalhr.pdf
+- [Terminology on disaster risk reduction](https://www.unisdr.org/we/inform/terminology)
+- [Using global indicators to measure progress](https://www.unisdr.org/files/54970_techguidancefdigitalhr.pdf)
 
 ## Data sets
 
-- http://www.masdap.mw/
-- http://www.masdap.mw/layers/osm:osm_landusages
-- https://www.preventionweb.net/countries/mwi/data/
-- https://news.gallup.com/poll/189269/disparities-cellphone-ownership-pose-challenges-africa.aspx
+- [Malawi Spatial Data Platform (MASDAP)](http://www.masdap.mw/)
+- [Land Usage from MASDAP](http://www.masdap.mw/layers/osm:osm_landusages)
+- [Malawi Disaster & Risk Profile](https://www.preventionweb.net/countries/mwi/data/)
+- [Disparities in Cellphone Ownership Pose Challenges in Africa](https://news.gallup.com/poll/189269/disparities-cellphone-ownership-pose-challenges-africa.aspx)
 
 ## Tech to implement the solution
 
-- https://developer.ibm.com/patterns/generate-insights-from-multiple-data-sources-using-watson-studio/
-- https://developer.ibm.com/patterns/transform-load-big-data-csv-files-db2-zos-database/
-- https://developer.ibm.com/blogs/call-for-code-finalist-pd3r-uses-artificial-intelligence-for-retrofitting/
+- [Generate insights from multiple data sources](https://developer.ibm.com/patterns/generate-insights-from-multiple-data-sources-using-watson-studio/)
+- [Transform and load big data CSV files into a database](https://developer.ibm.com/patterns/transform-load-big-data-csv-files-db2-zos-database/)
+- [2018 Finalist PD3R](https://developer.ibm.com/blogs/call-for-code-finalist-pd3r-uses-artificial-intelligence-for-retrofitting/)
 
 ## Resources for futher reading, research, and learning
-- https://www.unisdr.org/we/inform/publications/53213
-- https://www.youtube.com/watch?v=mRTlS3ZfljM
-- https://www.worldbank.org/en/news/press-release/2018/06/18/building-back-better-how-to-cut-natural-disaster-losses-by-a-third
+- [Words into Action guidelines: Build back better in recovery, rehabilitation and reconstruction](https://www.unisdr.org/we/inform/publications/53213)
+- [Sendai Framework Priority 4: Build Back Better](https://www.youtube.com/watch?v=mRTlS3ZfljM)
+- [Building Back Better: How to Cut Natural Disaster Losses by a Third](https://www.worldbank.org/en/news/press-release/2018/06/18/building-back-better-how-to-cut-natural-disaster-losses-by-a-third)
 
 ## License
 
