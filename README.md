@@ -1,6 +1,6 @@
 # Solution Starter: Building Back Better to Reduce the Impact of Future Disasters
 
-This solution starter was created by team one at the United Nations Human Rights Office in Geneva, Switzerland on June 3-4, 2019. It features contributions by technologists from Persistent Systems, Capgemini, WPP, IBM, and Red Hat. 
+This solution starter was created by Team One at the United Nations Human Rights Office in Geneva, Switzerland on June 3-4, 2019. It features contributions by technologists from Persistent Systems, Capgemini, WPP, IBM, and Red Hat. 
 
 ## What's the challenge?
 
