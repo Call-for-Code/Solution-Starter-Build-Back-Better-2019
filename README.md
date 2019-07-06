@@ -2,14 +2,6 @@
 
 This solution starter was created by Team One at the United Nations Human Rights Office in Geneva, Switzerland on June 3-4, 2019. It features contributions by technologists from Persistent Systems, Capgemini, WPP, IBM, and Red Hat. 
 
-## What's the challenge?
-
-Enhance resiliency and integrate disaster risk reduction during the recovery, rehabilitation, and reconstruction phase. Consider how to use technology-driven solutions to take action in anticipation of events, strengthen key infrastructure including buildings, roads, and hospitals, and ensure capacities are in place for effective response and recovery at all levels in the future.
-
-## Why is this needed?
-
-Research shows when countries rebuild stronger, faster, and more inclusively after a natural disaster, the impact on individuals' livelihood and well-being can be reduced by more than 30 percent, cutting losses from $555B to $382B per year.  As climate change increases, countries will benefit from placing an even greater priority on more resilient, swift, and inclusive recovery and reconstruction processes. Building back better, stronger, and faster after a natural disaster is one of the best ways to reduce impact and end the cycle of poverty.
-
 ## Overview
 
 Building back better, stronger, and faster after a natural disaster is one of the best ways to reduce the impact on a community's livelihood and end the cycle of poverty. Research from the World Bank shows when countries implement a resilient and inclusive rebuilding process, global average losses drop from $555 billion to $382 billion per year.
